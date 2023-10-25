@@ -1,8 +1,8 @@
 # movieProject
 영화예매프로그램(자바 Swing)
 
-<h1>Swing Gui를 활용한 자바코어기반 팀프로젝트<h1>
-<h2>영화예매 프로그램 LED CINEMA</h2>
+Swing Gui를 활용한 자바코어기반 팀프로젝트
+영화예매 프로그램 LED CINEMA<br>
 <Strong>프로젝트 기간 : 2023-07-23 ~ 2023-08-01</Strong>
 
 # 개발환경
