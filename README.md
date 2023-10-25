@@ -13,7 +13,7 @@ IDE : Eclipse <br>
 RestAPI : Login API(KAKAO,NAVER,GOOGLE), Pay API(KAKAO PAY) <br>
 기타라이브러리 : MariaDB Client(MariaDB Driver), Lombok, jsoup(데이터크롤링 시 사용) <br>
 
-[구현설계 및 구동화면]<br>
+# 구현설계 및 구동화면
 <인트로><br>
 팀명 LED를 포함하여 LED CINEMA 라는 인트로 .gif 제작해 구동초기에 삽입
 ![인트로](https://github.com/JIHODA/movieProject/assets/128888373/71afba38-c05a-4e2d-bcd7-6d3f350a7604)
