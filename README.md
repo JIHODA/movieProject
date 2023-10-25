@@ -19,7 +19,7 @@ RestAPI : Login API(KAKAO,NAVER,GOOGLE), Pay API(KAKAO PAY) <br>
 ![인트로](https://github.com/JIHODA/movieProject/assets/128888373/71afba38-c05a-4e2d-bcd7-6d3f350a7604)
 
 
-<메인뷰 와 영화데이터><br>
+@ 메인뷰 와 영화데이터
   CGV 와 메가박스의 페이지화면 등을 참고하여 메인페이지를 구성
   영화는 총 19개 예매순으로 1위~19위의 영화 데이터를 cgv에서 크롤링
   필요한 영화의 데이터는 제목, 예매순위, 감독, 배우, 개봉일, 스토리, 장르, 런닝타임, 포스터 등 과 스틸컷, 연령,성별별 예매분포도
