@@ -5,7 +5,7 @@ Swing Gui를 활용한 자바코어기반 팀프로젝트
 영화예매 프로그램 LED CINEMA
 프로젝트 기간 : 2023-07-23 ~ 2023-08-01
 
-[개발환경]<br>
+# [개발환경]<br>
 O/S : window 10 <br>
 IDE : Eclipse <br>
 언어 : JAVA jdk 1.8 <br>
